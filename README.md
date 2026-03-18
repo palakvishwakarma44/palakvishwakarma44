@@ -1,82 +1,91 @@
 <h1 align="center">Hi 👋, I'm Palak Vishwakarma</h1>
-<h3 align="center">6th Semester CSE Student • Java Developer • Web Developer • AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Java+Developer;Web+Developer;AI+Projects;Learning+DSA+%26+Frontend;Turning+Ideas+Into+Code" />
-</p>
+<h3 align="center">🚀 CSE Student | Java Developer | Web Developer | AI Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 6th Semester **CSE Student**
-- 💻 Learning **Java, DSA, HTML, CSS, JavaScript, React**
-- 🤖 Exploring **AI, Chatbots & Automation**
-- 🚀 Passionate about building **clean & modern UI projects**
-- 🌱 Currently improving **DSA + AI Projects + Portfolio + GitHub Profile**
+
+* 🎓 6th Semester B.Tech CSE Student
+* 💻 Strong in Java, DSA, and Frontend Development
+* 🌐 Skilled in HTML, CSS, JavaScript, React
+* 🤖 Exploring AI, Chatbots & Automation
+* 🚀 Passionate about building real-world projects
+* 🌱 Currently focusing on **DSA + Full Stack + Open Source (GSoC)**
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,git,github,vscode,cpp,figma,nodejs,express,mongodb" />
-</p>
+
+* **Languages:** Java, C++, JavaScript
+* **Frontend:** HTML, CSS, React, Tailwind
+* **Backend:** Node.js, Express
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 🏆 Projects
 
-### 1. **AI Advanced Virtual Assistant** 🤖
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/palakvishwakarma44/AI-Advanced-Virtual-Assistant)
-- Intelligent AI assistant capable of performing tasks like generating images, executing commands, and answering queries.  
-- Built with **JavaScript, Node.js, OpenAI API**.  
-- Focused on real-world usability and automation.  
-- ![Preview](https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) *(replace with your actual project GIF or screenshot)*
+### 🤖 AI Advanced Virtual Assistant
 
-### 2. **FreeBiding Freelancing Website** 💼
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/palakvishwakarma44/FreeBiding-Freelancing-Website)
-- A freelancing platform where users can post jobs, bid on projects, and hire freelancers.  
-- Built with **React, Node.js, Express, MongoDB**.  
-- Features: user authentication, bidding system, and project management.  
-- ![Preview](https://i.giphy.com/media/l4pTdcifn3B0E0zG0/giphy.gif) *(replace with your project GIF)*
+* Built using **JavaScript, Node.js, OpenAI API**
+* Can generate images, execute commands & answer queries
+* Focused on real-world automation
 
-### 3. **Spotify Clone** 🎵
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/palakvishwakarma44/Spotify-Clone)
-- Functional music streaming interface using **HTML, CSS & JavaScript**.  
-- Features playlist, search, and play/pause functionality.
+🔗 Repo: [Add Link]
 
-### 4. **Portfolio Website** 🌐
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/palakvishwakarma44/Portfolio)
-- Personal website to showcase **projects, skills, and resume**.  
-- Built with **React & Tailwind CSS**.  
-- ![Preview](https://i.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif) *(replace with screenshot or GIF)*
+---
+
+### 💼 FreeBiding Freelancing Website
+
+* Full-stack platform for job posting & bidding
+* Tech: **React, Node.js, Express, MongoDB**
+* Features: Authentication, bidding system, project management
+
+🔗 Repo: [Add Link]
+
+---
+
+### 🎵 Spotify Clone
+
+* Built with **HTML, CSS, JavaScript**
+* Features: Play/Pause, Playlist, UI
+
+🔗 Repo: [Add Link]
+
+---
+
+### 🌐 Portfolio Website
+
+* Personal portfolio using **React + Tailwind**
+* Showcases projects and skills
+
+🔗 Repo: [https://my-portfolio-beta-eight-55.vercel.app/]
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=palakvishwakarma44&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=palakvishwakarma44&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palakvishwakarma44&show_icons=true" />
+</p>
 
 ---
 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=palakvishwakarma44&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakvishwakarma44&layout=compact" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
-<p align="center">
-  <a href="mailto:palakvishw7897@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/palakvishwakarma44"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/palakvishwakarma44/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/palak.codes/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+
+* 📧 Email: [palakvishw7879@gmail.com](mailto:palakvishw7879@gmail.com)
+* 💼 LinkedIn: [(https://www.linkedin.com/in/palak-vishwakarma-18206b306/)]
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ⭐</h3>
+✨ *Actively contributing to Open Source & preparing for GSoC 🚀*
+
