@@ -30,7 +30,7 @@
 ## 🏆 Featured Projects
 
 ### 🤖 AI Advanced Virtual Assistant  ⭐ (Highlighted Project)
-🔗 https://github.com/palakvishwakarma44/AI-Advanced-Virtual-Assistant  
+🔗virtual-assistant-frontend-qxbq.vercel.app
 
 - Built a **real-world AI assistant** capable of:
   - Image generation  
