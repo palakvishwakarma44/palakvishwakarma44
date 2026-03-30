@@ -53,7 +53,7 @@
 ---
 
 ### 🎵 Spotify Clone
-🔗spotify-clone-three-psi-98.vercel.app
+🔗https://spotify-clone-three-psi-98.vercel.app
 
 - Music player UI with:
   - Play/Pause  
