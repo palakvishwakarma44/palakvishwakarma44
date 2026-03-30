@@ -1,105 +1,86 @@
 <h1 align="center">Hi 👋, I'm Palak Vishwakarma</h1>
 
-<h3 align="center">🚀 Software Developer | Java | Full Stack | AI Enthusiast</h3>
+<h3 align="center">🚀 Java Developer | Full Stack | AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Developer;DSA+Learner;AI+Project+Builder;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real+World+Projects;Java+%2B+DSA+Focused;Full+Stack+Developer;AI+Explorer;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 🔥 About Me
+## 🌟 About Me
 
-- 🎓 B.Tech CSE (6th Semester)  
-- 💻 Strong in **Java + Data Structures & Algorithms**  
-- 🌐 Full Stack Developer (**React, Node.js, MongoDB**)  
-- 🤖 Building **AI-powered real-world applications**  
-- 🚀 Focused on **scalable projects & problem solving**  
-- 📈 Consistently improving through **DSA + Projects**
+✨ Passionate about building **real-world impactful projects**  
+💻 Strong in **Java + DSA**  
+🌐 Skilled in **Full Stack Development**  
+🤖 Exploring **AI-powered applications**  
+🚀 Goal: Crack top tech companies (Google/Amazon)
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,mongodb,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Advanced Virtual Assistant  ⭐ (Highlighted Project)
-🔗https://virtual-assistant-frontend-qxbq.vercel.app
+### 🤖 AI Virtual Assistant
+🔗 https://virtual-assistant-frontend-qxbq.vercel.app
 
-- Built a **real-world AI assistant** capable of:
-  - Image generation  
-  - Task execution  
-  - Intelligent Q&A  
-- Tech: **Node.js, Express, OpenAI API**  
-- Focus: **automation + real-life usability**
+✨ Smart assistant with:
+- Image Generation  
+- Task Automation  
+- Intelligent Responses  
+
+🛠 Tech: Node.js | Express | OpenAI  
 
 ---
 
-### 💼 FreeBiding Freelancing Platform
+### 💼 Freelancing Platform
 🔗 https://github.com/palakvishwakarma44/FreeBiding-Freelancing-Website  
 
-- Full-stack freelancing system with:
-  - User authentication  
-  - Job bidding system  
-  - Project management  
-- Tech: **React, Node.js, MongoDB**
+- Authentication System  
+- Job Bidding  
+- Dashboard UI  
 
 ---
 
-### 🎵 Spotify Clone
-🔗https://spotify-clone-three-psi-98.vercel.app
+### 🎵 Spotify Clone  
+🔗 https://spotify-clone-three-psi-98.vercel.app  
 
-- Music player UI with:
-  - Play/Pause  
-  - Playlist system  
-  - Clean responsive design  
-- Tech: **HTML, CSS, JavaScript**
+- Music Player UI  
+- Playlist System  
+- Responsive Design  
 
 ---
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio  
 🔗 https://my-portfolio-beta-eight-55.vercel.app/  
 
-- Personal portfolio showcasing:
-  - Projects  
-  - Skills  
-  - Resume  
-- Tech: **React + Tailwind CSS**
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=palakvishwakarma44&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=palakvishwakarma44&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=palakvishwakarma44&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=palakvishwakarma44&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📈 Coding Activity
+## 🧠 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakvishwakarma44&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Mastering **DSA for top tech companies**
-- 💻 Building **advanced full stack + AI projects**
-- 🌱 Improving **problem-solving & system design**
+🔥 DSA Mastery  
+🚀 Advanced Full Stack Projects  
+🤖 AI + Real-world Problem Solving  
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:palakvishw7879@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -109,4 +90,4 @@
 
 ---
 
-<h3 align="center">✨ "Code. Build. Improve. Repeat." 🚀</h3>
+<h3 align="center">💡 "Build Smart. Code Clean. Stay Consistent." 🚀</h3>
