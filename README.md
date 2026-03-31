@@ -59,7 +59,7 @@
 ---
 
 ### 💼 Freelancing Platform  
-🔗 https://github.com/palakvishwakarma44/FreeBiding-Freelancing-Website  
+🔗 https:freelance-bidding-platform-6lcrhklms.vercel.app
 
 ✨ Features:
 - User Authentication  
