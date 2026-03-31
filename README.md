@@ -59,7 +59,8 @@
 ---
 
 ### 💼 Freelancing Platform  
-🔗 https://freelance-bidding-platform-6lcrhklms.vercel.app
+🔗 https://freelance-bidding-platform.vercel.app
+
 
 ✨ Features:
 - User Authentication  
