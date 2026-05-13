@@ -36,6 +36,7 @@
 
 ### 🧠 AI Powered Learning Management System + Student Hub
 🔗 https://learning-management-system-nine-bay.vercel.app
+
 🔥 Fully functional EdTech platform combining LMS + AI tools (Live & Deployed)  
 🚀 Designed to help students learn, plan, and improve using AI  
 
