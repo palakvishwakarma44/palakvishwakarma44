@@ -13,8 +13,8 @@
 ---
 
 ## 🌟 About Me
-
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ✨ Passionate about building real-world projects  
 💻 Strong in Java + DSA  
@@ -33,6 +33,27 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 AI Powered Learning Management System + Student Hub
+🔗 https://learning-management-system-nine-bay.vercel.app
+🔥 Fully functional EdTech platform combining LMS + AI tools (Live & Deployed)  
+🚀 Designed to help students learn, plan, and improve using AI  
+
+✨ Core Features
+- Course Creation & Management (Admin Panel)
+- Student Learning Dashboard
+- Video Lectures & Progress Tracking
+- Secure User Authentication (JWT-based)
+
+🤖 AI Student Hub
+- Smart Roadmap Generator (Personalized learning paths)
+- Study Planner (Daily/weekly planning)
+- Resume Analyzer (AI feedback on resumes)
+- Quiz Generator (Auto question generation)
+- Mistake Analyzer (Tracks weak areas & improvements)
+
+🛠 Tech Used  
+React • Node.js • Express • MongoDB • Tailwind CSS • OpenAI API
 
 ### 🤖 AI Virtual Assistant
 🔗 https://virtual-assistant-frontend-qxbq.vercel.app
